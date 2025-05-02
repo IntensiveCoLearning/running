@@ -104,8 +104,6 @@ http://t.me/LXDAO/24558
 
 
 
-## 更多信息
-
 ## 报名和打卡规则
 
 因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-bd65b981146947fea1fb675942567a45)
