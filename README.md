@@ -60,7 +60,7 @@ run, exercise, health, body, mind
 
 ## 社群
 
-Telegram：/
+http://t.me/LXDAO/24558
 
 ## 学习资料/课程安排
 
