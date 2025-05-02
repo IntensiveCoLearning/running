@@ -6,10 +6,13 @@ timezone: UTC+8
 
 
 # 你的名字
-
+Kevin
 1. 自我介绍
+杭电网安学生，一起锻炼！
 2. 你认为你会完成本次残酷学习吗？
+可以
 3. 你的联系方式（推荐 Telegram）
+https://t.me/Kev1nWeb3
 
 ## Notes
 
