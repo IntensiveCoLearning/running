@@ -133,7 +133,9 @@ http://t.me/LXDAO/24558
 | [wodeche](https://github.com/IntensiveCoLearning/running/blob/main/wodeche.md) |  |  |  |  |  |  | | | | | | | | | | | | | | | |
 | [Coooder](https://github.com/IntensiveCoLearning/running/blob/main/Coooder.md) |  |  |  |  |  |  | | | | | | | | | | | | | | | |
 | [cooper](https://github.com/IntensiveCoLearning/running/blob/main/cooper.md) |  |  |  |  |  |  | | | | | | | | | | | | | | | |
+| [MRzzz-cyber](https://github.com/IntensiveCoLearning/running/blob/main/MRzzz-cyber.md) |  |  |  |  |  |  | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
