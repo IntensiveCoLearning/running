@@ -381,6 +381,7 @@ def update_statistics(content, stats):
 - 淘汰率: {stats["total_participants"] and stats["eliminated_participants"] / stats["total_participants"]:.2%}
 - Fork人数: {stats["fork_count"]}
 {STATS_END_MARKER}"""
+    stats_text = "\n".join([line for line in stats_text.splitlines() if line.strip() != ""])
     return content[:start_index] + stats_text + content[end_index + len(STATS_END_MARKER):]
 
 def update_statistics_after_end(content, user_files):
