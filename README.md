@@ -136,7 +136,9 @@ http://t.me/LXDAO/24558
 | [MRzzz-cyber](https://github.com/IntensiveCoLearning/running/blob/main/MRzzz-cyber.md) |  | | | | | | | | | | | | | | | | | | | | |
 | [MilesYam](https://github.com/IntensiveCoLearning/running/blob/main/MilesYam.md) |  | | | | | | | | | | | | | | | | | | | | |
 | [charlottyge](https://github.com/IntensiveCoLearning/running/blob/main/charlottyge.md) |  | | | | | | | | | | | | | | | | | | | | |
+| [wlynna](https://github.com/IntensiveCoLearning/running/blob/main/wlynna.md) |  | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
