@@ -138,7 +138,7 @@ run, exercise, health, body, mind
 | [xwwkk](https://github.com/IntensiveCoLearning/running/blob/main/xwwkk.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [qiaopengjun5162](https://github.com/IntensiveCoLearning/running/blob/main/qiaopengjun5162.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | |
 | [dexhunter](https://github.com/IntensiveCoLearning/running/blob/main/dexhunter.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | |
-| [wodeche](https://github.com/IntensiveCoLearning/running/blob/main/wodeche.md) | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | |
+| [wodeche](https://github.com/IntensiveCoLearning/running/blob/main/wodeche.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | |
 | [Coooder](https://github.com/IntensiveCoLearning/running/blob/main/Coooder.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | |
 | [cooper](https://github.com/IntensiveCoLearning/running/blob/main/cooper.md) | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [MRzzz-cyber](https://github.com/IntensiveCoLearning/running/blob/main/MRzzz-cyber.md) | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
@@ -146,6 +146,7 @@ run, exercise, health, body, mind
 | [charlottyge](https://github.com/IntensiveCoLearning/running/blob/main/charlottyge.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | |
 | [wLynna](https://github.com/IntensiveCoLearning/running/blob/main/wLynna.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
