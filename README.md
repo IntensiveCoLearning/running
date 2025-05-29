@@ -144,8 +144,9 @@ run, exercise, health, body, mind
 | [MRzzz-cyber](https://github.com/IntensiveCoLearning/running/blob/main/MRzzz-cyber.md) | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [MilesYam](https://github.com/IntensiveCoLearning/running/blob/main/MilesYam.md) | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [charlottyge](https://github.com/IntensiveCoLearning/running/blob/main/charlottyge.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ |   | | |
-| [wLynna](https://github.com/IntensiveCoLearning/running/blob/main/wLynna.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   | | |
+| [wLynna](https://github.com/IntensiveCoLearning/running/blob/main/wLynna.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
