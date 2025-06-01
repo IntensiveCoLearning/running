@@ -137,7 +137,7 @@ run, exercise, health, body, mind
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [xwwkk](https://github.com/IntensiveCoLearning/running/blob/main/xwwkk.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [qiaopengjun5162](https://github.com/IntensiveCoLearning/running/blob/main/qiaopengjun5162.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| [dexhunter](https://github.com/IntensiveCoLearning/running/blob/main/dexhunter.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ |   |
+| [dexhunter](https://github.com/IntensiveCoLearning/running/blob/main/dexhunter.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [wodeche](https://github.com/IntensiveCoLearning/running/blob/main/wodeche.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | |
 | [Coooder](https://github.com/IntensiveCoLearning/running/blob/main/Coooder.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ❌ | | | | | | | | | | | | | | |
 | [cooper](https://github.com/IntensiveCoLearning/running/blob/main/cooper.md) | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
@@ -250,13 +250,14 @@ run, exercise, health, body, mind
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
-- 总参与人数: 0
-- 完成人数: 0
-- 完成用户: 
-- 全勤用户: 
-- 淘汰人数: 0
-- 淘汰率: 0.00%
-- Fork人数: 0
+- 总参与人数: 10
+- 完成人数: 4
+- 完成用户: qiaopengjun5162, dexhunter, charlottyge, wLynna
+- 全勤用户: qiaopengjun5162
+- 淘汰人数: 6
+- 淘汰率: 60.00%
+- Fork人数: 9
 <!-- STATISTICALDATA_END -->
