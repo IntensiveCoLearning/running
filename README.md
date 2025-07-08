@@ -287,6 +287,7 @@ run, exercise, health, body, mind
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 - 总参与人数: 10
@@ -295,5 +296,5 @@ run, exercise, health, body, mind
 - 全勤用户: qiaopengjun5162
 - 淘汰人数: 6
 - 淘汰率: 60.00%
-- Fork人数: 0
+- Fork人数: 9
 <!-- STATISTICALDATA_END -->
